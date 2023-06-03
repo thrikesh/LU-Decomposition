@@ -38,7 +38,8 @@ x=lu_solve((lu,piv),b)
 print(x)
 ```
 ## Output:
-
+<br>![output](./ex5(mfa)a.png)
+<br>![output](./ex5(mfa)b.png)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
